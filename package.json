@@ -1,0 +1,20 @@
+{
+  "name": "colon",
+  "version": "1.0.0",
+  "description": "making colon in dxf via xls",
+  "main": "main.js",
+  "dependencies": {
+    "dxf-writer": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "xls",
+    "dxf",
+    "writer"
+  ],
+  "author": "Kirill Erohin",
+  "license": "MIT"
+}
